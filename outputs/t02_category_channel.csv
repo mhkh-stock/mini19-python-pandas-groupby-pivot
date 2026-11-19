@@ -1,0 +1,25 @@
+category,channel,lines,units,revenue_pkr,mean_line_total_pkr
+Accessories,Daraz,104,119,255381,2455.59
+Accessories,App,51,76,162424,3184.78
+Accessories,Website,29,46,104954,3619.1
+Accessories,WhatsApp,28,47,82953,2962.61
+Audio,App,43,74,428926,9975.02
+Audio,Daraz,58,70,359930,6205.69
+Audio,WhatsApp,27,49,239951,8887.07
+Audio,Website,30,45,218955,7298.5
+Home Appliances,Website,29,52,337986,11654.69
+Home Appliances,App,32,55,336483,10515.09
+Home Appliances,WhatsApp,28,50,323987,11570.96
+Home Appliances,Daraz,19,20,127996,6736.63
+Laptops,Website,27,59,8630500,319648.15
+Laptops,App,19,27,3735500,196605.26
+Laptops,Daraz,4,6,820500,205125.0
+Laptops,WhatsApp,4,5,742000,185500.0
+Mobiles,Website,148,245,8930809,60343.3
+Mobiles,App,95,168,6076866,63967.01
+Mobiles,WhatsApp,75,120,4403916,58718.88
+Mobiles,Daraz,47,56,2062457,43882.06
+Wearables,Website,43,60,675440,15707.91
+Wearables,App,28,49,471451,16837.54
+Wearables,Daraz,24,27,297973,12415.54
+Wearables,WhatsApp,8,9,109491,13686.38

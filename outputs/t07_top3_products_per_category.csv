@@ -1,0 +1,19 @@
+category,product,lines,units,revenue_pkr,rank_in_category
+Accessories,Laptop Stand,42,57,227943,1
+Accessories,Wireless Mouse,52,70,174930,2
+Accessories,USB-C Cable 1m,63,84,125916,3
+Audio,Bluetooth Speaker,49,75,674925,1
+Audio,Bluetooth Earbuds,51,73,437927,2
+Audio,Wired Earphones,58,90,134910,3
+Home Appliances,Ceiling Fan,36,60,510000,1
+Home Appliances,Iron Steamer,39,69,448500,2
+Home Appliances,Electric Kettle,33,48,167952,3
+Laptops,HP Laptop 15,22,40,5800000,1
+Laptops,Lenovo IdeaPad Slim 3,18,33,4240500,2
+Laptops,Dell Inspiron 15,14,24,3888000,3
+Mobiles,Infinix Note 40,106,168,6551832,1
+Mobiles,Samsung Galaxy A15,90,137,5822500,2
+Mobiles,Oppo A18,94,168,5039832,3
+Wearables,Smartwatch Ultra,32,44,835956,1
+Wearables,Smartwatch Fit Pro,33,48,479952,2
+Wearables,Fitness Band,38,53,238447,3

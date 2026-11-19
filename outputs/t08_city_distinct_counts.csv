@@ -1,0 +1,6 @@
+city,lines,revenue_pkr,distinct_products,distinct_categories,distinct_orders,revenue_share_pct
+Lahore,341,15041107,20,6,341,37.66
+Karachi,261,9784181,20,6,261,24.5
+Islamabad,159,6387814,20,6,159,15.99
+Rawalpindi,126,4495342,19,6,126,11.26
+Faisalabad,113,4228385,20,6,113,10.59

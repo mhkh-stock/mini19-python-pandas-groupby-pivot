@@ -1,0 +1,21 @@
+product,revenue_pkr,cumulative_revenue_pkr,cumulative_share_pct,in_top_20pct_products
+Infinix Note 40,6551832,6551832,16.41,True
+Samsung Galaxy A15,5822500,12374332,30.98,True
+HP Laptop 15,5800000,18174332,45.51,True
+Oppo A18,5039832,23214164,58.13,True
+Lenovo IdeaPad Slim 3,4240500,27454664,68.75,False
+Xiaomi Redmi 13,4059884,31514548,78.91,False
+Dell Inspiron 15,3888000,35402548,88.65,False
+Smartwatch Ultra,835956,36238504,90.74,False
+Bluetooth Speaker,674925,36913429,92.43,False
+Ceiling Fan,510000,37423429,93.71,False
+Smartwatch Fit Pro,479952,37903381,94.91,False
+Iron Steamer,448500,38351881,96.03,False
+Bluetooth Earbuds,437927,38789808,97.13,False
+Fitness Band,238447,39028255,97.72,False
+Laptop Stand,227943,39256198,98.3,False
+Wireless Mouse,174930,39431128,98.73,False
+Electric Kettle,167952,39599080,99.15,False
+Wired Earphones,134910,39733990,99.49,False
+USB-C Cable 1m,125916,39859906,99.81,False
+Phone Cover,76923,39936829,100.0,False
